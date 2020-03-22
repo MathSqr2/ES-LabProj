@@ -9,6 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class IpmaweatherApplication
 {
     public static void main(String[] args) {
+
         SpringApplication.run(IpmaweatherApplication.class, args);
     }
 }
