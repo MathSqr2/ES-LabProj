@@ -1,5 +1,11 @@
-# ES-LabProj
+# ES-LabProj - Group L26 
 
+#### Authors
+
+1. **Afonso Guimarães (86012)** - afonso.guima@ua.pt  
+2. **Vasco Cardoso (86067)** - vasco.cardoso16@ua.pt
+
+#### Instructions
 To run the project the first step is to start the services by running the *docker-compose.yaml*:
 ```
     docker-compose up -d
